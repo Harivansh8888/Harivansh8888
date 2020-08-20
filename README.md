@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am Harivansh Mathur a 3rd year student pursuing Computer Science Engineering at <a href="https://www.upes.ac.in/">UPES</a>
+### I am Harivansh Mathur 3rd year student pursuing Computer Science Engineering at <a href="https://www.upes.ac.in/">UPES</a>
 
 ![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888&theme=vision-friendly-dark)
 
