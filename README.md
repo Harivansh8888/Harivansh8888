@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### I am Harivansh Mathur a 3rd year CS Student at UPES Dehradun interested in frontend development
 
-[![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888&theme=vision-friendly-dark)]
+![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888&theme=vision-friendly-dark)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivansh8888&layout=compact&theme=vision-friendly-dark)]
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivansh8888&layout=compact&theme=vision-friendly-dark)
 
 # Let's Connect on
 <a href="https://www.linkedin.com/in/harivansh-mathur-a01736175/">
