@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋👨‍💻
+## I am Harivansh Mathur, 3rd year CS Student at UPES Dehradun
 <!--
 **Harivansh8888/Harivansh8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
