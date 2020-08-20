@@ -1,7 +1,7 @@
 ## Hi there 👋👨‍💻
 ## I am Harivansh Mathur, 3rd year CS Student at UPES Dehradun
 
-![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888)](https://github.com/anuraghazra/github-readme-stats)
+[![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Harivansh8888/Harivansh8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
