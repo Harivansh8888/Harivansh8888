@@ -1,5 +1,5 @@
 ## Hi there 👋👨‍💻
-## I am Harivansh Mathur a 3rd year CS Student at UPES Dehradun interested in frontend development
+### I am Harivansh Mathur a 3rd year CS Student at UPES Dehradun interested in frontend development
 
 [![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888)](https://github.com/anuraghazra/github-readme-stats)
 <!--
