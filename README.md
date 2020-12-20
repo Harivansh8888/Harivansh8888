@@ -8,11 +8,9 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/Harivansh811">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+### <a href="https://twitter.com/Harivansh811">Twitter</a>
 
-### <a href="https://www.instagram.com/thisisharivansh/">Instagram </a>
+### <a href="https://www.instagram.com/thisisharivansh/">Instagram</a>
 <br/>
 
 ### Visit my Portfolio <a href="https://harivanshmathur.netlify.app">here</a>
