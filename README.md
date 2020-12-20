@@ -4,15 +4,10 @@
 ![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888&theme=vision-friendly-dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivansh8888&layout=compact&theme=vision-friendly-dark) 
 
 ## Let's Connect on
-<a href="https://www.linkedin.com/in/harivansh-mathur-a01736175/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
+### <a href="https://www.linkedin.com/in/harivansh-mathur-a01736175/">LinkedIn</a>
 ### <a href="https://twitter.com/Harivansh811">Twitter</a>
-
 ### <a href="https://www.instagram.com/thisisharivansh/">Instagram</a>
 <br/>
-
 ### Visit my Portfolio <a href="https://harivanshmathur.netlify.app">here</a>
 
 <!--
