@@ -48,10 +48,15 @@
 
 ### Connect with me
 
-<p align="center">
+
 <a href="https://harivanshmathur.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-harivanshmathur.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/harivanshmathur"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harivansh Mathur-blue?style=flat-square&logo=linkedin"></a>
+<br/>
+<br/>
 <a href="https://www.instagram.com/thisisharivansh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thisisharivansh-blue?style=flat-square&logo=instagram"></a>
+<br/>
+<br/>
 <a href="mailto:mathurharivansh811@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mathurharivansh811@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
