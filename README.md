@@ -1,5 +1,5 @@
 ## Hi there 😄👋
-### I am a final year CS Undergraduate (specialization in DevOps) student at <a href="https://www.upes.ac.in/">UPES</a>
+### I am a final year CS undergraduate (specialization in DevOps) student at <a href="https://www.upes.ac.in/">UPES</a>
 
 ![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888&theme=vision-friendly-dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivansh8888&layout=compact&theme=vision-friendly-dark) 
 
@@ -13,6 +13,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Let's Connect on
 ### <a href="https://www.linkedin.com/in/harivansh-mathur-a01736175/">LinkedIn</a>
