@@ -1,8 +1,6 @@
 ## Hi there 😄👋
 ### I am a final year CS undergraduate (specialization in DevOps) student at <a href="https://www.upes.ac.in/">UPES</a>
 
-![Harivansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Harivansh8888&theme=vision-friendly-dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harivansh8888&layout=compact&theme=vision-friendly-dark) 
-
 ### Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -49,14 +47,14 @@
 ### Connect with me
 
 
-<a href="https://harivanshmathur.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-harivanshmathur.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://harivanshmathur.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-harivanshmathur.netlify.app-yellow?style=flat-square&logo=google-chrome"></a>
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/harivanshmathur"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harivansh Mathur-blue?style=flat-square&logo=linkedin"></a>
 <br/>
 <br/>
-<a href="https://www.instagram.com/thisisharivansh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thisisharivansh-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/thisisharivansh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thisisharivansh-blueviolet?style=flat-square&logo=instagram"></a>
 <br/>
 <br/>
-<a href="mailto:mathurharivansh811@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mathurharivansh811@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mathurharivansh811@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mathurharivansh811@gmail.com-red?style=flat-square&logo=gmail"></a>
 
