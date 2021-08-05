@@ -35,6 +35,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 &nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+&nbsp;
+![Sonarqube](https://img.shields.io/badge/-Sonarqube-333333?style=flat&logo=sonarqube)
 <br/>
 <br/>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
