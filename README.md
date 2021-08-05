@@ -46,25 +46,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-## Let's Connect on
-### <a href="https://www.linkedin.com/in/harivansh-mathur-a01736175/">LinkedIn</a>
-### <a href="https://twitter.com/Harivansh811">Twitter</a>
-### <a href="https://www.instagram.com/thisisharivansh/">Instagram</a>
-<br/>
+### Connect with me
 
-### Visit my Portfolio <a href="https://harivanshmathur.netlify.app">here</a>
+<p align="center">
+<a href="https://harivanshmathur.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-harivanshmathur.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/harivanshmathur"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harivansh Mathur-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/thisisharivansh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thisisharivansh-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mathurharivansh811@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mathurharivansh811@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-<!--
-**Harivansh8888/Harivansh8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
