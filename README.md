@@ -34,6 +34,7 @@
 <br/>
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 &nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 <br/>
 <br/>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
